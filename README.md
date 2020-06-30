@@ -20,6 +20,6 @@ $ gtts-cli 'hello world' --output helloworld.mp3
 
  Modül yazımı ise 
 
->>> from gtts import gTTS
->>> tts = gTTS('hello world')
->>> tts.save('helloworld.mp3')
+from gtts import gTTS
+tts = gTTS('hello world')
+tts.save('helloworld.mp3')
