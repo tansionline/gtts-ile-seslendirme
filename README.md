@@ -1,4 +1,4 @@
-# gtts-turkce ile python-seslendirme
+# gtts ile yazıları seslendirme
 <p>
 gtts diğer ismi ile Google Text-to-Speech elimden geldiğince açıklıyacağım.
 <p>
