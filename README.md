@@ -1,1 +1,1 @@
-# gtts-turkce--python-seslendirme-
+# gtts-turkce ile python-seslendirme
