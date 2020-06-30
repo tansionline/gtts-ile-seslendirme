@@ -14,11 +14,11 @@ veya
 
 $ sudo pip install gTTS
 
-Hızlı test için 
+<h3>Hızlı test için </h3>
 
 $ gtts-cli 'hello world' --output helloworld.mp3
 
- Modül yazımı ise 
+ <h3>Modül yazımı ise </h3>
 
 from gtts import gTTS
 
