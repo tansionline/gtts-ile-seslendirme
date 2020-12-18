@@ -20,10 +20,12 @@ veya
 ```$ gtts-cli 'hello world' --output helloworld.mp3```
 
  <h3>Modül yazımı ise: </h3>
+ 
 ```
 from gtts import gTTS
 
 tts = gTTS('hello world')
 
 tts.save('helloworld.mp3')
+
 ```
